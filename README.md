@@ -1,4 +1,4 @@
-# vehicle-detection-and-speed-estimation-yolo-python
+# vehicle-detection-and-speed-estimation-yolo
 
 This project uses YOLOv3 for Vehicle detection and speed estimation
 
@@ -13,13 +13,13 @@ This project imlements the following tasks in the project:
 1. Download the code or simply run:
 
 ```
-$ git clone https://github.com/alexazivkovic/vehicle-detection-and-speed-estimation-yolo-python
+$ git clone https://github.com/alexazivkovic/vehicle-detection-and-speed-estimation-yolo
 ```
 
 2. To install required dependencies, run:
 
 ```
-$ cd vehicle-detection-and-speed-estimation-yolo-python
+$ cd vehicle-detection-and-speed-estimation-yolo
 $ pip3 install -r requirements.txt
 ```
 
